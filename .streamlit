@@ -1,0 +1,1 @@
+SUPABASE_DB_URL = "postgresql://postgres.fxsybnzkykxqhbwbiivg:p8bo33MAgUfDnHEO@aws-1-us-east-1.pooler.supabase.com:6543/postgres"
